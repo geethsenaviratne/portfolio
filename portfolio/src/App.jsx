@@ -4,6 +4,8 @@ import Navbar from './components/Navbar/Navbar'
 import About from './components/About/About'
 import Service from './components/Service/Service'
 import MyWork from './components/MyWork/MyWork'
+import Contact from './components/Contact/Contact'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -11,10 +13,10 @@ const App = () => {
       <Navbar/>
       <Home/>
        <About/>
-       <Service/>
+      <Service/>
       <MyWork/>
-
-
+      <Contact/>
+      <Footer/>
     </div>
 
      )
