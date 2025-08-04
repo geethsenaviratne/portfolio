@@ -52,7 +52,7 @@ function Contact() {
                 </div>
 
                 <div className="contact-detail">
-                    <img src={location_icon} alt="" /> <p>75/1, Anagarika Dharmapala Mawatha, Kandy</p> 
+                    <img src={location_icon} alt="" /> <p>Kandy, Sri Lanka</p> 
                 </div>
 
             </div>
