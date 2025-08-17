@@ -23,7 +23,7 @@ It showcases my **projects, skills, and experiences** in software engineering.
 ├── index.html      # Entry point
 ├── package.json    # Dependencies
 └── vite.config.js  # Vite configuration
----
+```
 
 
 ## ✨ Features
@@ -40,15 +40,18 @@ It showcases my **projects, skills, and experiences** in software engineering.
 ```bash
 git clone https://github.com/your-username/portfolio.git
 cd portfolio
+```
 
-Install dependencies
+```Install dependencies
 npm install
+```
 
-Run development server
+```Run development server
 npm run dev
 
-Build for production
+```Build for production
 npm run build
+```
 
 ---
 
