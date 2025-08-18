@@ -1,7 +1,6 @@
 # 🌐 Geeth Senavirathna — Portfolio
 
-This is my personal **portfolio website** built with **React + Vite**.  
-It showcases my **projects, skills, and experiences** in software engineering.
+This is **portfolio website** built with **React + Vite**.  
 
 ---
 
@@ -42,14 +41,18 @@ git clone https://github.com/your-username/portfolio.git
 cd portfolio
 ```
 
-```Install dependencies
+### 2.Install dependencies
+```
 npm install
 ```
 
-```Run development server
+### 3.Run development server
+```
 npm run dev
+```
 
-```Build for production
+### 4.Build for production
+```
 npm run build
 ```
 
@@ -64,5 +67,6 @@ npm run build
 - 📧 **Email**: geethsene2001@gmail.com  
 - 💼 **LinkedIn**: (https://www.linkedin.com/in/geethseneviratne/))  
 - 🐙 **GitHub**: (https://github.com/geethsenaviratne)  
+
 
 
