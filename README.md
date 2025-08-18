@@ -1,7 +1,6 @@
 # 🌐 Geeth Senavirathna — Portfolio
 
-This is my personal **portfolio website** built with **React + Vite**.  
-It showcases my **projects, skills, and experiences** in software engineering.
+This is **portfolio website** built with **React + Vite**.  
 
 ---
 
