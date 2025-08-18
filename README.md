@@ -42,14 +42,18 @@ git clone https://github.com/your-username/portfolio.git
 cd portfolio
 ```
 
-```Install dependencies
+### 2.Install dependencies
+```
 npm install
 ```
 
-```Run development server
+### 3.Run development server
+```
 npm run dev
+```
 
-```Build for production
+### 4.Build for production
+```
 npm run build
 ```
 
