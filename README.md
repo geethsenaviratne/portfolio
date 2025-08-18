@@ -1,4 +1,4 @@
-# 🌐 Geeth SenaviratNE — Portfolio
+# 🌐 Geeth Senaviratne — Portfolio
 
 This is **portfolio website** built with **React + Vite**.  
 
